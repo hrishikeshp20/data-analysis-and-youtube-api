@@ -1,0 +1,50 @@
+,video_id,video_title,upload_date,view_count,like_count,comment_count
+0,i80pkW8YeKI,Data Provides vs Data Users: Choose Your Job in Data Science,2022-11-16,404,13,1
+1,yoUO84tOH3c,Edge Case Alert in Python Interview Question Solving [Part 2],2022-11-14,247,10,0
+2,qbN_t6sh4_E,Data Science Job Types  Careers,2022-11-11,537,25,7
+3,9quwCoQ6CoU,Meta Product Families: head() Function to Explore the Data [Part 1],2022-11-09,196,5,0
+4,RmMuS5iiviI,Python Pandas Techniques In A Meta Data Science Interview,2022-11-03,915,39,0
+5,bppeYE-VUSQ,Data Science Interview Simple Tips: How to Answer the Additional Question,2022-10-31,495,24,0
+6,0EKPN19Y9MA,How many Twitch viewers became streamers? A SQL coding question,2022-10-26,266,10,0
+7,vQmk0bH25d0,[Part 2] EDGE Cases in Data Analysis: How to Reduce the Risk of Missing Important Details,2022-10-22,332,4,0
+8,M-dT_0m4qhI,SQL interview: How many Twitch viewers became streamers?,2022-10-20,1953,65,1
+9,rEaSskQhId4,[Part 1] How to Solve an Amazon Python Interview Question - The 3-Step Framework,2022-10-19,428,14,0
+10,8IIryKHheYw,(Part 3) How to Formulate the Approach for Solving SQL Interview Questions,2022-10-18,203,4,0
+11,yQSZT65WET4,A Python Coding Interview Question From Amazon,2022-10-13,983,41,5
+12,OMHbYrL09io,A/B Testing (A) Interview Questions or (B) for Data Scientists,2022-10-12,579,22,0
+13,SGDchcWjaTA,(Part 2) Deepen Your Understanding of Data with These Simple Tips,2022-10-10,533,21,0
+14,9av7jQ9MA44,A/B Testing Concepts To Know For Data Science,2022-10-06,1767,99,5
+15,nh2nLDpxDFI,(Part 1) Meta SQL Interview Question: Identify the Popular Posts,2022-10-05,470,27,0
+16,Q-3wvYInCeI,Meta SQL Interview Question - A Step-By-Step Solution,2022-09-29,3211,100,10
+17,0cYfw5mWJ-E,How to Perform Data Analysis with Python for Freedom Debt Relief,2022-09-28,489,30,5
+18,sVdNVgtpkD4,A Python Project to Solve Your Debt Problems,2022-09-22,4777,169,17
+19,M4shTrIgXs0,3 Simple Steps to Solve Noom SQL Interview Questions,2022-09-21,400,12,1
+20,5Lpbw71xR3o,Framework to Solve Noom Advanced SQL Interview Question,2022-09-15,2129,70,0
+21,gtHI672Tlbw,DoorDash Medium Level SQL Interview Question,2022-09-08,726,26,2
+22,DmUR2QSNUq8,DoorDash Data Science SQL Interview Question Walkthrough,2022-09-07,2250,70,7
+23,OLG6_EHMhFk,The One Thing That Keeps Data Scientists Up-to-date,2022-08-31,665,51,4
+24,0EoaJE3ePcE,Use STRING_AGG Function to Solve SQL Questions,2022-08-25,2484,107,4
+25,JDOAcKTy9Mk,Top 5 Data Science Project Ideas in 2022 to Stay Up To Date as a Data Scientist,2022-08-18,2962,158,13
+26,o8cFJmI50Dw,STRING_AGG Function to Solve Data Science Interview Questions,2022-08-11,1751,61,7
+27,ggZzHnzYH1s,How To Use Python Window Functions | Solving Amazon Data Science Interview Question,2022-08-03,3012,125,8
+28,8zeLdtkY2CQ,Data Science Mock Interview | Salesforce SQL Coding Interview Question,2022-06-17,6294,175,23
+29,tnoOz6MzTPg,Python cumsum() | Solving Python Optimization Questions On a Data Science Interview,2022-05-11,2645,83,13
+30,OzyHfddLj9g,How to Solve a SQL Interview Question Using WHERE  HAVING | PayPal Data Science Interview,2022-04-13,7428,154,13
+31,jN5hpgBrz8k,Dealing With Python Date Manipulations In a Meta/Facebook Data Science Interview Question,2022-03-22,5515,163,23
+32,yFyyP_Uvxj0,How To Solve Data Science Probability Interview Questions | Meta/Facebook Example,2022-03-10,3976,120,4
+33,Av92CaPTRr8,How to use SQL window functions: RANK vs DENSE_RANK in Data Science Interviews,2022-03-02,5216,127,8
+34,VEjxlKBkZGM,Amazon Data Science Interview Question Walkthrough | How to Deal with Streaks in SQL,2022-02-08,9679,258,32
+35,hMUf7DqG1nQ,SQL Basics: How to Join Multiple Tables in SQL and the Importance of LEFT JOIN vs INNER JOIN,2022-01-27,5726,123,8
+36,ToEl_tpyoM4,Uber Data Science Python Interview Question Walkthrough,2022-01-10,20515,497,27
+37,30hS-MjpU6E,SQL Syntax Best Practices: How to Structure Your SQL Code,2021-12-22,15496,631,51
+38,Bgpp99iz0I0,Most Common Coding Mistakes on Data Science Interviews,2021-11-04,5160,220,32
+39,GeJUvdkJKEc,Multiple Solutions to Data Scientist Interview Question From Amazon [Rolling Average],2021-10-11,10539,280,48
+40,GGURenNfXI0,Multiple Approaches for Solving a Twitter Data Scientist Interview Question,2021-09-13,5682,208,35
+41,PlpUo6bHsBQ,Advanced Facebook Data Science SQL interview question [RANK()],2021-08-09,26841,805,80
+42,uY2wfR8Dkqo,5 Tips for a Successful Data Science Interview,2021-07-26,12709,305,40
+43,yY7yau9j3xk,Data Science SQL Scenario Based Interview Question [Facebook] - Date Manipulation,2021-07-20,7733,187,32
+44,i-E4pdU2qXM,Data Science SQL Interview Question Walkthrough [Microsoft] - Window Function: Ranking,2021-07-13,9100,331,24
+45,T1UhSuKqy3A,Most Common Data Science SQL Interview Question from DoorDash [window functions  partitions],2021-06-15,15371,495,42
+46,2iE3JgNTwVU,A Walkthrough of Data Science SQL Interview Question from Noom (Date Manipulations),2021-06-04,5980,182,30
+47,RgKMbpEylWA,Comparing FAANG vs Non-FAANG Data Science Interview Questions,2021-05-24,3278,110,14
+48,giGIPINLqJs,An Analysis of 900 Data Science Interview Questions | Data Science Interview Guide,2021-05-13,4712,195,12
